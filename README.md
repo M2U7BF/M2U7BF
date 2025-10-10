@@ -1,16 +1,11 @@
-## Hi there 👋
+## 概要
+![](https://github-readme-stats.vercel.app/api/top-langs?username=M2U7BF&show_icons=true&locale=en&layout=compact)
 
-<!--
-**M2U7BF/M2U7BF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## スキル
+**実務内：**
+<br>
+![](https://skillicons.dev/icons?i=html,css,js,spring,typescript,java,php)
+<br>
+**実務外：**
+<br>
+![](https://skillicons.dev/icons?i=c,python)
