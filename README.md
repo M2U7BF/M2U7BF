@@ -2,8 +2,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=M2U7BF" />
-  <a href="https://qiita.com/yutkat"><img src="https://badgen.org/img/qiita/L79KZJ/contributions?style=flat" alt="Contributions" /></a>
-  <a href="https://qiita.com/yutkat"><img src="https://badgen.org/img/qiita/L79KZJ/articles?style=flat" alt="Articles" /></a>
+  <a href="https://qiita.com/L79KZJ"><img src="https://badgen.org/img/qiita/L79KZJ/contributions?style=flat" alt="Contributions" /></a>
+  <a href="https://qiita.com/L79KZJ"><img src="https://badgen.org/img/qiita/L79KZJ/articles?style=flat" alt="Articles" /></a>
 </p>
 
 ## Recent Activities
